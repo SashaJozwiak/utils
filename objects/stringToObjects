@@ -1,0 +1,4 @@
+const namespace = (str: string): object =>
+  str.split(".").reduceRight((acc, key) => ({ [key]: acc }), {});
+
+//namespace('1.2.3.4.5')
