@@ -1,0 +1,22 @@
+
+const openingSymbols = ['(', '[', '{', '<'];
+const closingSymbols = [')', ']', '}', '>'];
+
+
+export default (str) => {
+  let expectCloseStack = [];
+  return [...str].every(b => {
+    switch (b) {
+      case "(": return expectCloseStack.push(")");
+      case "[": return expectCloseStack.push("]");
+      case "{": return expectCloseStack.push("}");
+      case "<": return expectCloseStack.push(">");
+
+      case ")":
+      case "]":
+      case "}":
+      case ">":
+        return expectCloseStack.pop() === b;
+    }
+  }) && !expectCloseStack.length;
+}
