@@ -1,0 +1,14 @@
+//task: https://ru.hexlet.io/code_reviews/1019087
+//solution:
+
+const anotherObj = (obj, arr) => {
+  const result = {};
+  for (const value of arr) {
+    if (Object.hasOwn(obj, value)) {
+      result[value] = obj[value];
+    }
+  }
+  return result;
+};
+
+export default anotherObj;
