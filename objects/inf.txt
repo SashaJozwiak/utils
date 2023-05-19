@@ -3,3 +3,5 @@
 https://ru.hexlet.io/code_reviews/1021197
 https://ru.hexlet.io/code_reviews/1021451
 https://ru.hexlet.io/code_reviews/1023785
+
+https://ru.hexlet.io/code_reviews/1024423 - file structure in obj
