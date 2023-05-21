@@ -1,4 +1,4 @@
-
+//all tasks = https://ru.hexlet.io/u/codeislife/courses
 //разобрать
 https://ru.hexlet.io/code_reviews/1021197
 https://ru.hexlet.io/code_reviews/1021451
