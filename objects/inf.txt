@@ -6,3 +6,6 @@ https://ru.hexlet.io/code_reviews/1023785
 
 https://ru.hexlet.io/code_reviews/1024423 - file structure in obj
 https://ru.hexlet.io/code_reviews/1025500 - file structure in obj
+
+
+https://ru.hexlet.io/code_reviews/1030203 - callback with context for every obj
