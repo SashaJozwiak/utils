@@ -11,3 +11,5 @@ https://ru.hexlet.io/code_reviews/1025500 - file structure in obj
 https://ru.hexlet.io/code_reviews/1030203 - callback with context for every obj
 https://ru.hexlet.io/code_reviews/1030297 - easy constructor (witout classes)
 https://ru.hexlet.io/code_reviews/1030305 - work with currency and prototypes
+
+https://ru.hexlet.io/qna/javascript/questions/kakie-est-sposoby-vypolnit-glubokoe-klonirovanie - copy objects
