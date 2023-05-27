@@ -1,0 +1,1 @@
+async fs readfile: https://ru.hexlet.io/code_reviews/1033408
