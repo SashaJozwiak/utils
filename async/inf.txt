@@ -1,2 +1,4 @@
 async fs readfile: https://ru.hexlet.io/code_reviews/1033408
 async read/write files: https://ru.hexlet.io/code_reviews/1033441
+
+promises: https://ru.hexlet.io/code_reviews/1034385
