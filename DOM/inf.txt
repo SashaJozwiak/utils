@@ -1,1 +1,2 @@
-https://ru.hexlet.io/code_reviews/1034456 - nice example for parse 
+https://ru.hexlet.io/code_reviews/1034456 - nice example for parse
+https://ru.hexlet.io/code_reviews/1035759 - DOM control
