@@ -1,3 +1,4 @@
 https://ru.hexlet.io/code_reviews/1034456 - nice example for parse
 https://ru.hexlet.io/code_reviews/1035759 - DOM control
 https://ru.hexlet.io/code_reviews/1036700 - DOM classes rename
+https://ru.hexlet.io/code_reviews/1036723 - duble nav control
